@@ -19,4 +19,4 @@
 
 如下图所示：
 
-![示意图](图片路径)
+![示意图](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/exp.png)
