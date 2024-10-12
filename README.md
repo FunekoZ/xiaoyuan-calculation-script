@@ -1,4 +1,4 @@
-**# xiaoyuan-calculation-script
+# xiaoyuan-calculation-script
 最泛用(?)的小猿口算答题脚本（虽然我慢了点，但是我在哪都能用啊~）
 
 感谢ChaosJulien@163.com提供的思路，本项目在该作者基础上进行开发改进。运行配置见https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto
