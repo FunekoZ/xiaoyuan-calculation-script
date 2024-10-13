@@ -38,7 +38,7 @@ pip install opencv-python numpy pyautogui pytesseract keyboard
 ![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example3.png)
 6. 本项目不再严格要求模拟器识别时的位置摆放。运行代码后，会出现左右两个识别框，  
 只需分别拖动放置在左右两个数字上，即可开始识别。 </br>
-![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/img/exp.png)
+![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/img/exp1.png)
 
 
 #### 使用到的框架
