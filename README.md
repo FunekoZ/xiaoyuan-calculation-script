@@ -31,8 +31,9 @@ pip install opencv-python numpy pyautogui pytesseract keyboard
 ```
 5. 调整第9行代码路径为你的tesseract安装路径</br>
 ![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example3.png)
-6. 根据你的所属位置进行调整,如下图所示 </br>
-![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example1.png)
+6. 本项目不再严格要求模拟器识别时的位置摆放。运行代码后，会出现左右两个识别框，  
+只需分别拖动放置在左右两个数字上，即可开始识别。 </br>
+![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/exp.png)
 
 
 ## 使用到的框架
@@ -48,12 +49,3 @@ pip install opencv-python numpy pyautogui pytesseract keyboard
 
 感谢ChaosJulien (chaosjulien@163.com) 提供的思路，本项目在其基础上进行开发改进。  
 项目运行配置详见[ChaosJulien XiaoYuanKouSuan_Auto 项目](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto)。
-
-## 功能特点
-
-本项目不再严格要求模拟器识别时的位置摆放。运行代码后，会出现左右两个识别框，  
-只需分别拖动放置在左右两个数字上，即可开始识别。
-
-如下图所示：
-
-![示意图](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/exp.png)
