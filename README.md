@@ -5,7 +5,7 @@
 
 ## 运行效果
 
-请查看B站视频。
+请查看B站视频：https://www.bilibili.com/video/BV1wG2eYdED5
 
 ## 致谢
 
