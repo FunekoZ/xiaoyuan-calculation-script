@@ -3,6 +3,10 @@
 最泛用(?)的小猿口算答题脚本  
 （虽然我慢了点，但是我在哪都能用啊~）
 
+## 运行依赖的库
+
+cv2，numpy，pyautogui，pytesseract，re，tkinter，threading，time，PIL
+
 ## 运行效果
 
 请查看B站视频：https://www.bilibili.com/video/BV1wG2eYdED5
