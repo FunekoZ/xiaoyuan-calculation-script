@@ -11,7 +11,7 @@
 
 使用`BlueStacks`模拟器运行Android虚拟机 </br>
 使用`BlueStacks脚本管理器`手写录入`>` `<`的输入内容并调整至5倍速 </br>
-![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example2.png) </br>
+![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/img/example2.png) </br>
 将其绑定热键至`,` `.`
 
 #### 配置要求
@@ -38,7 +38,7 @@ pip install opencv-python numpy pyautogui pytesseract keyboard
 ![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example3.png)
 6. 本项目不再严格要求模拟器识别时的位置摆放。运行代码后，会出现左右两个识别框，  
 只需分别拖动放置在左右两个数字上，即可开始识别。 </br>
-![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/exp.png)
+![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/img/exp.png)
 
 
 #### 使用到的框架
