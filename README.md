@@ -3,18 +3,23 @@
 最泛用(?)的小猿口算答题脚本  
 （虽然我慢了点，但是我在哪都能用啊~）
 
-## 上手指南
+## 运行效果
+
+请查看B站视频：https://www.bilibili.com/video/BV1wG2eYdED5
+
+#### 上手指南
+
 使用`BlueStacks`模拟器运行Android虚拟机 </br>
 使用`BlueStacks脚本管理器`手写录入`>` `<`的输入内容并调整至5倍速 </br>
 ![](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto/blob/main/image/example2.png) </br>
 将其绑定热键至`,` `.`
 
-## 配置要求
+#### 配置要求
 
 1. 本项目基于Python 3.12.5进行开发
 2. 本项目使用了tesseract文本识别(OCR)引擎
 
-## **安装步骤**
+#### **安装步骤**
 
 1. 在[Python](https://www.python.org/) 下载对应Python版本
 2. 在[tesseract](https://github.com/tesseract-ocr/tesseract)下载Windows版本，并安装中文语言确保最佳兼容性
@@ -36,14 +41,10 @@ pip install opencv-python numpy pyautogui pytesseract keyboard
 ![](https://github.com/FunekoZ/xiaoyuan-calculation-script/blob/main/exp.png)
 
 
-## 使用到的框架
+#### 使用到的框架
 
 - [Python](https://www.python.org/)
 - [tesseract][(https://github.com/tesseract-ocr/tesseract)
-
-## 运行效果
-
-请查看B站视频：https://www.bilibili.com/video/BV1wG2eYdED5
 
 ## 致谢
 
